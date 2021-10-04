@@ -8,14 +8,11 @@ public class MethodOverloading {
         return result;
     }
     
-    
     int add(int a,int b,int c)
     {
         int result=a+b+c;
         return result;
     }
-    
-    
     /*
     double add(double a,double b,double c)
     {
